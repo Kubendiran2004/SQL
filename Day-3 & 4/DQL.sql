@@ -43,3 +43,5 @@ from salary
 group by status HAVING SUM(amount) > 50000;
 
 
+
+
